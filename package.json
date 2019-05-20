@@ -1,0 +1,17 @@
+{
+  "name": "electric-pdf",
+  "version": "1.2.0",
+  "description": "A pdf viewer using using electron and mozilla/pdf.js",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^1.7.337"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "BiggaHD",
+  "license": "MIT"
+}
