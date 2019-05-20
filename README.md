@@ -1,14 +1,15 @@
 > ## Electric PDF's 📑📊
 
-> Build using [electron](https://electronjs.org/) with a little help of [pdf.js](https://github.com/mozilla/pdf.js) 
+> #### Build using [electron](https://electronjs.org/) with a little help of [pdf.js](https://github.com/mozilla/pdf.js) 
 
-> ### Clone this repo
+> ### Clone this repo:
 
-> ### Install dependencies
+> ### Install dependencies:
 ```
 npm i
 ```
 
-> ### Run the app
+> ### Run the app:
+```
 npm start
 ```
