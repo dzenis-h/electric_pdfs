@@ -4,7 +4,7 @@
   "description": "A pdf viewer using using electron and mozilla/pdf.js",
   "main": "main.js",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "pdfjs-dist": "^1.7.337"
