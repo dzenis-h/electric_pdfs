@@ -7,7 +7,7 @@
     "electron": "^1.4.1"
   },
   "dependencies": {
-    "pdfjs-dist": "^1.7.337"
+    "pdfjs-dist": "^3.1.81"
   },
   "scripts": {
     "start": "electron ."
